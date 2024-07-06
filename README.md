@@ -1,10 +1,6 @@
-# Passive acoustic monitoring of animal poputaion with compressed sensing
+# Passive Acoustic Monitoring of Animal Populations With Compressed Sensing
 
-A poster summarizing a project involving near real-time wildlife monitoring using compressed ensing and deep learning.
-
-
+A poster summarizing a project involving near real-time wildlife monitoring using Compressed Sensing and Deep Learning.
 
 
-
-
-![Uploading poster.png…]()
+![Poster](poster.png)
