@@ -3,8 +3,4 @@
 A poster summarizing a project involving near real-time wildlife monitoring using compressed ensing and deep learning.
 
 
-
-
-
-
-![Uploading poster.png…]()
+![Poster](poster.png)
