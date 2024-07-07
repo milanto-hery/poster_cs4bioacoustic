@@ -13,4 +13,4 @@ A poster summarizing a project involving near real-time wildlife monitoring usin
 ### Link for experiments
 
 - Data preprocessing for training: https://github.com/milanto-hery/cs_project.git
-- Clasiifier training and predictions: https://github.com/milanto-hery/classifier-cs4pam.git
+- Classifier (training and predictions): https://github.com/milanto-hery/classifier-cs4pam.git
