@@ -10,7 +10,7 @@ A poster summarizing a project involving near real-time wildlife monitoring usin
 - Thyolo alethe: https://zenodo.org/records/6328244 
 - Hainan Gibbon: https://zenodo.org/records/3991714
 
-### Link of code for experiments
+### Link for experiments
 
 - Data preprocessing for training: https://github.com/milanto-hery/cs_project.git
 - Clasiifier training and predictions: https://github.com/milanto-hery/classifier-cs4pam.git
